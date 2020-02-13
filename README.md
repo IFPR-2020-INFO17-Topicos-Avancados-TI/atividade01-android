@@ -1,6 +1,6 @@
 # Atividade 1 - Calculadora de Gorjeta
 
-Utilizando todo o conhecimento adquirido sobre Android até a última aula de Tópicos Avançados de TI, construa uma calculadora de gorjeta minimamente funcional, seguindo o modelo da imagem aapresentada abaixo.
+Utilizando todo o conhecimento adquirido sobre Android até a última aula de Tópicos Avançados de TI, construa uma calculadora de gorjeta minimamente funcional, seguindo o modelo da imagem apresentada abaixo.
 
 Obs: Não precisa ficar idêntico. O foco, neste momento, é conseguir criar uma aplicação e "brincar" com a interface gráfica e código, mesmo sem entender detalhes de funcionamento.
 
